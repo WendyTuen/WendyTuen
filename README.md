@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WendyTuen.
-- 💞️ I’m looking to collaborate with frontend Developer ( React.js) , QA and Mobile developer (React Native). All are working remote and prefer Malaysian only. 
-- 📫 How to reach me - WhatsApp : 016-5110372 or wendy.khoong@pactmail.com
+- 👋 Hi, I’m @WendyTuen, Linkedin:  https://www.linkedin.com/in/wendy-khoong/ 
+- 💞️ I’m looking to collaborate with senior fullstack developer (C#.NET Core & React) , Senior QA (Manual Testing) and Staff Software Engineer (C#).  All are working hybrid in Malaysia. 
+- 📫 How to reach me - WhatsApp : 016-5110372 or wendy.khoong@appspace.com
 
 
 <!---
