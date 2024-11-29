@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WendyTuen, Linkedin:  https://www.linkedin.com/in/wendy-khoong/ 
-- 💞️ I’m looking to collaborate with senior fullstack developer (C#.NET Core & React) , Senior QA (Manual Testing) and Staff Software Engineer (C#).  All are working hybrid in Malaysia. 
+- 💞️ We are hiring for a senior fullstack developer (C#.NET Core & React) , Senior QA (Manual Testing) and Staff Software Engineer (C#).  All are working hybrid in Malaysia. 
 - 📫 How to reach me - WhatsApp : 016-5110372 or Email:  wendy.khoong@appspace.com
 
 
